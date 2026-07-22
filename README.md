@@ -7,13 +7,13 @@ Data from https://www.kaggle.com/competitions/peptide-lc-retention-time-predicti
 Inital exploration of data and feature engineering is done in 01_exploration.ipynb and modelling is done in 02_modelling.ipynb
 
 ## Reproducing the analysis 
-**1. Clone the repo
+**1. Clone the repo**
 ```bash
 git clone https://github.com/Ben-J-Whitehead/portal_peptide_exploration.git
 cd peptide-retention-time
 ```
 
-**2. Create and activate conda environment
+**2. Create and activate conda environment**
 ```bash
 conda create -n peptide-rt python=3.11
 conda activate peptide-rt
