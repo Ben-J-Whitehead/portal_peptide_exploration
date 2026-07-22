@@ -10,7 +10,7 @@ Inital exploration of data and feature engineering is done in 01_exploration.ipy
 **1. Clone the repo**
 ```bash
 git clone https://github.com/Ben-J-Whitehead/portal_peptide_exploration.git
-cd peptide-retention-time
+cd portal_peptide_exploration
 ```
 
 **2. Create and activate conda environment**
