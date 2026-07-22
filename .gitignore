@@ -1,3 +1,8 @@
+# Project data
+data/*.csv
+data/*.tsv
+data/*.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
